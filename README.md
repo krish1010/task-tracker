@@ -1,3 +1,3 @@
 # Task Tracker
 
-A task tracker application build with React.
+## A task tracker application build with React.
